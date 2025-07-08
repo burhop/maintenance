@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+requests==2.31.0
+GitPython==3.1.40
+PyGithub==2.1.1
+cloc==1.0.1
